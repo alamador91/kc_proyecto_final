@@ -1,0 +1,13 @@
+setuptools
+numpy
+joblib
+mlflow
+seaborn
+scikit-learn==1.2.2
+boto3
+google-auth
+google-auth-oauthlib
+matplotlib
+
+
+# pip install -r requirements.txt
