@@ -44,6 +44,9 @@ A continuación se va a dejar enlaces a los archivos generados para los diferent
 [2 - drive_downloader](./drive_downloader.py)         
 [3 - main](./main.py)               
 
+# Documentación
+[1 - Cuaderno de Bitácora](./Bitácora_proyecto_detección_fraude_equipo_the_balloon.pdf)         
+[2 - Presentación](./Presentación_proyecto_detección_fraude_equipo_the_balloon.pptx)  
 
 Para ver los "Experimients" generados en mlFlow se debe acceder a la siguiente dirección:    
 [the balloon project](https://the-balloon-project.com/)
