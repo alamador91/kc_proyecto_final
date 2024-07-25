@@ -2,19 +2,19 @@
 
 
 BootCamp:  
-## BOOTCAMP IA I (NOV 23)
+**BOOTCAMP IA I (NOV 23)**
 
 
 Equipo:   
-## THE BALLOON
+**THE BALLOON**
 
 
 Integrantes:    
-- ## Angel Luis Ortega Amador
-- ## Carlos Molano Gómez
-- ## Juan Carlos Avalos
-- ## Otger Peidro Cid
-- ## Pedro Turiel Miranda
+- **Angel Luis Ortega Amador**
+- **Carlos Molano Gómez**
+- **Juan Carlos Avalos**
+- **Otger Peidro Cid**
+- **Pedro Turiel Miranda**
 
 # Descripción
 
@@ -41,6 +41,6 @@ A continuación se va a dejar enlaces a los archivos generados para los diferent
 [main](./main.py)
 
 
-Para ver los "Experimients" generados en mlFlow se debe acceder a la siguiente dirección:
-[the balloon project](https://the-balloon-project.com/)
+Para ver los "Experimients" generados en mlFlow se debe acceder a la siguiente dirección:    
+<a href="[placeholder.com](https://the-balloon-project.com/)" target="_blank">the balloon project</a>
 
