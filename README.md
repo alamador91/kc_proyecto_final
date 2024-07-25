@@ -27,22 +27,21 @@ A continuación se va a dejar enlaces a los archivos generados para los diferent
 
 # Machine Learning
 
-[FraudDetection_EDA](./FraudDetection_EDA.ipynb)        
-[FraudDetection_Pipeline](./FraudDetection_Pipeline.ipynb)       
-[FraudDetection_MLFlow](./FraudDetection_MLFlow.ipynb)     
+[1 - FraudDetection_EDA](./FraudDetection_EDA.ipynb)        
+[2 - FraudDetection_Pipeline](./FraudDetection_Pipeline.ipynb)       
+[3 - FraudDetection_MLFlow](./FraudDetection_MLFlow.ipynb)     
 
 
 
 # Computer Vision
-
-[Fraude_CV_Model](./Fraude_CV_Model.ipynb)        
-[Fraude_CV_Embeddings](./Fraude_CV_Embeddings.ipynb)      
+[1 - Fraude_CV_Embeddings](./Fraude_CV_Embeddings.ipynb)      
+[2 - Fraude_CV_Model](./Fraude_CV_Model.ipynb)        
 
 
 
 # Despliegue
-[functions](./functions.py)       
-[main](./main.py)       
+[1 - functions](./functions.py)       
+[2 - main](./main.py)       
 
 
 Para ver los "Experimients" generados en mlFlow se debe acceder a la siguiente dirección:    
