@@ -42,5 +42,5 @@ A continuación se va a dejar enlaces a los archivos generados para los diferent
 
 
 Para ver los "Experimients" generados en mlFlow se debe acceder a la siguiente dirección:    
-<a href="[placeholder.com](https://the-balloon-project.com/)" target="_blank">the balloon project</a>
+<a href="https://the-balloon-project.com/" target="_blank">the balloon project</a>
 
