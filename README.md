@@ -40,9 +40,9 @@ A continuación se va a dejar enlaces a los archivos generados para los diferent
 
 
 # Despliegue
-[1 - functions](./functions.py) 
-[2 - drive_downloader](./drive_downloader.py) 
-[3 - main](./main.py)       
+[1 - functions](./functions.py)         
+[2 - drive_downloader](./drive_downloader.py)         
+[3 - main](./main.py)               
 
 
 Para ver los "Experimients" generados en mlFlow se debe acceder a la siguiente dirección:    
